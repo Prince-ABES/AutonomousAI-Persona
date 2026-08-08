@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/agent.json
+data/posts.json
+npm-debug.log*
